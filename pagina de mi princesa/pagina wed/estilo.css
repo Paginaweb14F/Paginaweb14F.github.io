@@ -1,0 +1,97 @@
+h1{
+	font-size: 55px;
+	background-image:url(file:///C:/Users/User/Downloads/download.jpg);
+	display: inline-block;
+	box-sizing: border-box;
+	text-align: CENTER;
+	margin: 20px 10px;
+	line-height:1;
+	font-weight: 2;
+padding: 100px 500px;
+border-radius:25px ;
+border: 5px solid black;
+box-shadow:0px 0px 55px 55px black;
+text-shadow: 6px 6px 10px ;
+text-decoration-color: black;
+
+
+
+}
+h1{	
+	color: white;
+}
+b{
+font-size: 20px;	
+text-align: CENTER;
+line-height: 10px;
+color: white;
+margin: 10px;
+
+
+}
+h2{
+	font-size: 50px 
+
+}
+*{
+	padding:0px ;
+margin:0px ;
+img{
+
+height:50px ;
+width: 50px;
+transition:all 1s ;
+
+
+}
+}
+*{
+	padding:0px;
+	margin: 0px;
+}
+
+
+.conten{background-color: red;
+
+width: 100vw;
+height: 100VW;
+text-align: center;}
+
+body{
+	background-color: red;
+	background-image: url(file:///C:/Users/User/Downloads/pexels-mikhail-nilov-6835973.jpg);
+}
+
+
+
+
+img{
+
+	width: 20%;
+	height: 20%;
+	transform-origin: 0.5s;
+	object-fit: cover;
+
+}
+img:hover{
+transform: scale(1.5);
+
+}
+
+
+video{
+width: 20%;
+height: 20%;
+
+
+
+
+}
+
+
+p{
+
+color: white;
+font-size: 30px;
+
+}
